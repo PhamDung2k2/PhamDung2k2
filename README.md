@@ -31,3 +31,18 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhamDung2k2&layout=compact&theme=tokyonight)](https://github.com/PhamDung2k2/github-readme-stats)
 # Profile Summary
 ![GitHub Profile Summary stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhamDung2k2&theme=tokyonight&show_icons=true)
+
+# 📊GitHub Stats :
+<details>
+  <summary>💻 GitHub Profile Stats</summary>
+  
+  [![stats](https://github-readme-stats.vercel.app/api?username=PhamDung2k2&layout=compact&theme=radical&hide_border=true&include_all_commits=false&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PhamDung2k2&langs_count=10&layout=compact&theme=radical&hide_border=true&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
+ **Note**: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <br>
+  
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=PhamDung2k2&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt=""/></a>
+  <a href="https://github.com/PhamDung2k2"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PhamDung2k2&theme=radical&utcOffset=7" alt=""/></a>
+
+  
+</details>
