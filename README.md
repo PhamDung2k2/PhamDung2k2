@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 </details>
 
 <!-- # Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PhamDung2k2&theme=tokyonight&show_icons=true) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhamDung2k2&layout=compact&theme=tokyonight)](https://github.com/PhamDung2k2/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PhamDung2k2&theme=tokyonight&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhamDung2k2&layout=compact&theme=tokyonight)](https://github.com/PhamDung2k2/github-readme-stats) -->
 # Profile Summary
 ![GitHub Profile Summary stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhamDung2k2&theme=tokyonight&show_icons=true)
 
