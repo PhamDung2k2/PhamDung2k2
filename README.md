@@ -26,12 +26,6 @@ Here are some ideas to get you started:
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="60" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="dot net" width="50" height="40"/>
 
-# Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PhamDung2k2&theme=tokyonight&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhamDung2k2&layout=compact&theme=tokyonight)](https://github.com/PhamDung2k2/github-readme-stats)
-# Profile Summary
-![GitHub Profile Summary stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhamDung2k2&theme=tokyonight&show_icons=true)
-
 # 📊GitHub Stats :
 <details>
   <summary>💻 GitHub Profile Stats</summary>
@@ -43,6 +37,31 @@ Here are some ideas to get you started:
   
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=PhamDung2k2&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt=""/></a>
   <a href="https://github.com/PhamDung2k2"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PhamDung2k2&theme=radical&utcOffset=7" alt=""/></a>
-
-  
 </details>
+
+<!-- # Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PhamDung2k2&theme=tokyonight&show_icons=true) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhamDung2k2&layout=compact&theme=tokyonight)](https://github.com/PhamDung2k2/github-readme-stats)
+# Profile Summary
+![GitHub Profile Summary stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhamDung2k2&theme=tokyonight&show_icons=true)
+
+
+
+  <!-- Activity Graph -->
+[![PhamDung2k2's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PhamDung2k2&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">Connect with me :
+<!-- gmail -->
+<a href="phamdung.080206@gmail.com">
+ <img align="center" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Gmail.svg" alt="PhamDung2k2's gmail" height="30" width="40"/></a>
+
+<!-- facebook -->
+<a href="https://www.facebook.com/PhamDung2k2">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="PhamDung2k2's facebook" height="30" width="40"/></a>
+ 
+ <!-- github -->
+<a href="https://github.com/PhamDung2k2">
+ <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="PhamDung2k2's github" height="30" width="40"/></a>
+
+<br>
+<br>
