@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="dot net" width="50" height="40"/>
 
 # Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PhatNguyen2k2&theme=tokyonight&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhatNguyen2k2&layout=compact&theme=tokyonight)](https://github.com/PhatNguyen2k2/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PhamDung2k2&theme=tokyonight&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhamDung2k2&layout=compact&theme=tokyonight)](https://github.com/PhamDung2k2/github-readme-stats)
 # Profile Summary
-![GitHub Profile Summary stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhatNguyen2k2&theme=tokyonight&show_icons=true)
+![GitHub Profile Summary stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhamDung2k2&theme=tokyonight&show_icons=true)
