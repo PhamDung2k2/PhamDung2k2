@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Dung 👋
 
 <!--
 **PhamDung2k2/phamdung2k2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![snake svg](https://github.com/PhamDung2k2/PhamDung2k2/blob/output/github-contribution-grid-snake.svg)
+🌱 I'm 3rd-year student at University of Transport and Communications campus in HCMC
+
+🌏 I'm living now in Ho Chi Minh City, Viet Nam
+
+📫 How to reach me phamdung.080602@gmail.com
+<!--
+![snake svg](https://github.com/PhamDung2k2/PhamDung2k2/blob/output/github-contribution-grid-snake.svg)-->
 # Languages and Tools
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="45" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql server" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="Oracle" width="60" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="60" height="40"/>
