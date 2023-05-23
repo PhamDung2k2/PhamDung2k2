@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 <details>
   <summary>💻 GitHub Profile Stats</summary>
   
-  [![stats](https://github-readme-stats.vercel.app/api?username=PhamDung2k2&layout=compact&theme=radical&hide_border=true&include_all_commits=false&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PhamDung2k2&langs_count=10&layout=compact&theme=radical&hide_border=true&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
+  [![stats](https://github-readme-stats.vercel.app/api?username=PhamDung2k2&layout=compact&theme=radical&hide_border=true&include_all_commits=false&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PhamDung2k2&langs_count=10&layout=compact&theme=radical&hide_border=true&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
   <br>
  **Note**: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br>
@@ -48,7 +49,7 @@ Here are some ideas to get you started:
 
 
   <!-- Activity Graph -->
-[![PhamDung2k2's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PhamDung2k2&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![PhamDung2k2's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PhamDung2k2&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">Connect with me :
 <!-- gmail -->
