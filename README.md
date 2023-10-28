@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🌏 I'm living now in Ho Chi Minh City, Viet Nam
 
-📫 How to reach me phamdung.080602@gmail.com
+📫 How to reach me Phamdungsw.dev@gmail.com
 <!--
 ![snake svg](https://github.com/PhamDung2k2/PhamDung2k2/blob/output/github-contribution-grid-snake.svg)-->
 # Languages and Tools
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">Connect with me :
 <!-- gmail -->
-<a href="phamdung.080206@gmail.com">
+<a href="Phamdungsw.dev@gmail.com">
  <img align="center" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Gmail.svg" alt="PhamDung2k2's gmail" height="30" width="40"/></a>
 
 <!-- facebook -->
