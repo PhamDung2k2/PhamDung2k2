@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I'm 3rd-year student at University of Transport and Communications campus in HCMC
+🌱 I'm 4th-year student at University of Transport and Communications campus in HCMC
 
 🌏 I'm living now in Ho Chi Minh City, Viet Nam
 
