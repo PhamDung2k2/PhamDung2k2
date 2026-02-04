@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I'm 4th-year student at University of Transport and Communications campus in HCMC
+🌱 I graduated from the University of Transport and Communications campus in Ho Chi Minh City.
 
-🌏 I'm living now in Ho Chi Minh City, Viet Nam
+🌏 I'm living now in Truong Thanh Ward, Thu Duc City, Ho Chi Minh City, Viet Nam
 
 📫 How to reach me Phamdungsw.dev@gmail.com
 <!--
